@@ -78,3 +78,8 @@ LINK MIND features a bespoke, premium dark UI designed to be high-contrast yet e
 * **Storage**: Saved links and settings are stored locally on your machine using `chrome.storage.local`. No bookmark data is sent to external servers except for the Gemini API.
 * **ActiveTab**: Allows the extension to read the current page's URL and title for saving.
 * **Gemini API**: Sent strictly under secure HTTPS connection only when an API key is configured.
+
+---
+
+## 📄 License
+Copyright © 2026 **Ashwani Singh**. Released under the [MIT License](LICENSE).

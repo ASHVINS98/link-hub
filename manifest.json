@@ -3,6 +3,9 @@
   "name": "LINK MIND",
   "version": "1.0.0",
   "description": "Save, organize, and auto-categorize pages locally. Accessible via a modern dashboard and a floating page button.",
+  "author": {
+    "email": "ashwani.singh@anrxsolutions.com"
+  },
   "permissions": [
     "storage",
     "activeTab"
